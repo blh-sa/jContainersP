@@ -1,0 +1,1 @@
+!function(){const e=document.createElement("script");e.type="text/javascript",e.src="https://cdn.jsdelivr.net/gh/blh-sa/pSearchParams@master/dist/BVA/BVA-SW_preservparam-bundle.js",c=document.getElementById("footer"),c.parentNode.insertBefore(e,c)}();
