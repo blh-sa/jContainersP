@@ -1,1 +1,1 @@
-!function(){const e=document.createElement("script");e.type="text/javascript",e.src="https://cdn.jsdelivr.net/gh/blh-sa/jFormsP@2023.19.1/BVA/BVA-LP_popup_form-bundle.js",c=document.getElementById("popup"),c.parentNode.insertBefore(e,c)}();
+!function(){const e=document.createElement("script");e.type="text/javascript",e.src="https://cdn.jsdelivr.net/gh/blh-sa/jFormsP@2023.19.2/BVA/BVA-LP_popup_form-bundle.js",c=document.getElementById("popup"),c.parentNode.insertBefore(e,c)}();
